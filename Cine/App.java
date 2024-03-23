@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class App {
 
-	private ArrayList<Pelicula> peliculas;
+	
 
 	public App() {
 		this.peliculas = new ArrayList<Pelicula>();
