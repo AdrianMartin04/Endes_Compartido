@@ -3,7 +3,7 @@ package Cine;
 public class Pelicula {
 	private int year;
 	private String director;
-	private String genero;
+	
 	
 	
 
