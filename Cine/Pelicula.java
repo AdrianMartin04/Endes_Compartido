@@ -2,9 +2,9 @@ package Cine;
 
 public class Pelicula {
 	private int year;
-	private String director;
-	private String genero;
-	private String nombre;
+	
+	
+	
 	
 
 	public Pelicula(int year, String director, String genero, String nombre) {
