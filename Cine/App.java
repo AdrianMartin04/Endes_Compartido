@@ -8,7 +8,7 @@ import java.util.Iterator;
 import java.util.Scanner;
 
 public class App {
-
+String hola="HOLA";
 	
 
 	public App() {
